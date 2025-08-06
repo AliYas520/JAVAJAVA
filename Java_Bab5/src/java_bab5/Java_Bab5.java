@@ -99,14 +99,25 @@ public class Java_Bab5 {
 //        System.out.println("Apakah 2 lebih besar atau sama dengan 3 :" + (a >= b));
 //
 //      //equal and/or not equal (== / != )
-//            int a = 3;
-//            int b = 3;
-//            System.out.println("Variabel a : " + a);
-//            System.out.println("Variabel b : " + b);
-//            System.out.println("Apakah 3 sama dengan 3 : " + (a == b));
-//            a = 2;
-//            System.out.println("Apakah 2 sama dengan 3 : " + (a == b));
-//            System.out.println("Apakah 2 tidak sama  dengan 3 : " + (a != b));
+//        int a = 3;
+//        int b = 3;
+//        System.out.println("Variabel a : " + a);
+//        System.out.println("Variabel b : " + b);
+//        System.out.println("Apakah 3 sama dengan 3 : " + (a == b));
+//        a = 2;
+//        System.out.println("Apakah 2 sama dengan 3 : " + (a == b));
+//        System.out.println("Apakah 2 tidak sama  dengan 3 : " + (a != b));
+////// boolean //////
+//        // and (&&) [true if both statement are true]
+//        System.out.println("true and true : " + (true && true));
+//        System.out.println("true and false : " + (true && false));
+//        System.out.println("false and false : " + (false && false));
+//        System.out.println("false and true : " + (false && true));
+//        // or ( || ) [true if at least one statement is true] 
+//        System.out.println("true or true : " + (true || true));
+//        System.out.println("true orr false : " + (true || false));
+//        System.out.println("false or false : " + (false || false));
+//        System.out.println("false or true : " + (false || true));
     }
 
 }
