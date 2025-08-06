@@ -74,4 +74,13 @@ public class Java_Bab4 {
 //        
 //        System.out.println("Hasil : " + var1 / var2);
 //    }
+    
+    
+    
+//    public static void main(String[] arg) {
+//        int var1 = 5;
+//        int var2 = 3;
+//        
+//         System.out.println("Hasil : "+ (double)var1 / var2);
+//    }
 }
